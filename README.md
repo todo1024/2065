@@ -1,2 +1,364 @@
 # 2065
 2021年HCIE 2.0 云计算视频教程
+### 微:NoBug1024 
+
+
+课程介绍：
+
+HCIE（Huawei Certified ICT Expert，华为认证ICT专家）是华为认证体系中最高级别的ICT技术认证，旨在打造高含金量的专家级认证，为技术融合背景下的ICT产业提供新的能力标准，以实现华为认证引领ICT行业技术认证，播种ICT行业未来的愿景。
+
+〖课程目录〗:
+
+- ├──01 【视频】2020年云计算HCIE 2.0 周末班73课【泰K】  
+- |   ├──笔记  
+- |   |   ├──Packstack(RDO)部署.docx  94.95kb
+- |   |   ├──备考注意事项.xmind  79.13kb
+- |   |   ├──第八天笔记.txt  5.49kb
+- |   |   ├──第二天笔记.txt  16.88kb
+- |   |   ├──第九天笔记.txt  5.21kb
+- |   |   ├──第六天笔记.txt  10.00kb
+- |   |   ├──第七天笔记.txt  6.83kb
+- |   |   ├──第三天笔记.txt  9.85kb
+- |   |   ├──第十二天笔记.txt  3.51kb
+- |   |   ├──第十三天笔记.txt  4.41kb
+- |   |   ├──第十四天笔记.txt  3.65kb
+- |   |   ├──第十天笔记.txt  6.27kb
+- |   |   ├──第十五天笔记.txt  4.27kb
+- |   |   ├──第十一笔记.txt  7.96kb
+- |   |   ├──第四天笔记.txt  4.95kb
+- |   |   ├──第五天笔记.txt  7.03kb
+- |   |   └──第一天笔记.txt  9.20kb
+- |   ├──Cloud 1-1华为云计算解决方案介绍.mp4  99.13M
+- |   ├──Cloud 1-2华为云计算解决方案介绍.mp4  118.51M
+- |   ├──Cloud 1-3华为云计算解决方案介绍.mp4  111.44M
+- |   ├──Cloud 1-4华为云计算解决方案介绍.mp4  113.31M
+- |   ├──Cloud 1-5华为云计算解决方案介绍.mp4  86.00M
+- |   ├──Cloud 10-1FusionCloud网络平面.mp4  157.17M
+- |   ├──Cloud 10-2FusionCloud网络平面.mp4  178.66M
+- |   ├──Cloud 10-3FusionCloud私有云运营.mp4  152.32M
+- |   ├──Cloud 10-4FusionCloud私有云运营.mp4  132.07M
+- |   ├──Cloud 10-5FusionAccess虚拟机登录及故障排错.mp4  102.56M
+- |   ├──Cloud 11-1FusionSphereopenstack相比开源的区别.mp4  29.09M
+- |   ├──Cloud 11-2FusionAccess桌面云运营.mp4  125.54M
+- |   ├──Cloud 11-3FusionAccess桌面云运营.mp4  120.15M
+- |   ├──Cloud 11-4FusionStorage.mp4  125.96M
+- |   ├──Cloud 11-5FusionStorage.mp4  116.27M
+- |   ├──Cloud 11-6FusionStorage.mp4  139.15M
+- |   ├──Cloud 12-1FusionStorage.mp4  96.84M
+- |   ├──Cloud 12-2FusionStorage.mp4  131.24M
+- |   ├──Cloud 12-3FusionStorage.mp4  119.71M
+- |   ├──Cloud 12-4FusionStorage.mp4  159.15M
+- |   ├──Cloud 12-5备份.mp4  122.33M
+- |   ├──Cloud 13-1备份.mp4  149.17M
+- |   ├──Cloud 13-2备份.mp4  149.58M
+- |   ├──Cloud 13-3备份.mp4  211.51M
+- |   ├──Cloud 13-4备份.mp4  113.88M
+- |   ├──Cloud 13-5容灾.mp4  89.92M
+- |   ├──Cloud 14-1容灾.mp4  129.83M
+- |   ├──Cloud 14-2容灾.mp4  160.61M
+- |   ├──Cloud 14-3容灾.mp4  227.83M
+- |   ├──Cloud 14-4私有云灾备.mp4  140.79M
+- |   ├──Cloud 14-5私有云灾备.mp4  114.67M
+- |   ├──Cloud 15-1业务迁移.mp4  144.62M
+- |   ├──Cloud 15-2业务迁移.mp4  164.51M
+- |   ├──Cloud 15-3业务迁移.mp4  183.83M
+- |   ├──Cloud 15-4业务迁移.mp4  172.07M
+- |   ├──Cloud 15-5备考注意事项.mp4  197.67M
+- |   ├──Cloud 2-1FusionSphere 6.3 服务器虚拟化运营.mp4  110.21M
+- |   ├──Cloud 2-2FusionSphere 6.3 服务器虚拟化运营.mp4  94.18M
+- |   ├──Cloud 2-3FusionSphere 6.3 服务器虚拟化运营.mp4  97.51M
+- |   ├──Cloud 2-4FusionSphere 6.3 服务器虚拟化运营.mp4  115.21M
+- |   ├──Cloud 2-5FusionSphere 6.3 服务器虚拟化运营.mp4  114.55M
+- |   ├──Cloud 3-1FusionSphere 6.3 服务器虚拟化运营.mp4  79.10M
+- |   ├──Cloud 3-2FusionSphere 6.3 服务器虚拟化运营.mp4  94.15M
+- |   ├──Cloud 3-3FusionSphere 6.3 服务器虚拟化运营.mp4  164.12M
+- |   ├──Cloud 3-4KVM虚拟化技术方案介绍.mp4  156.52M
+- |   ├──Cloud 4-1KVM虚拟化技术方案介绍.mp4  77.92M
+- |   ├──Cloud 4-2KVM虚拟化技术方案介绍.mp4  88.80M
+- |   ├──Cloud 4-3FusionSphere OpenStack 6.3方案介绍.mp4  55.84M
+- |   ├──Cloud 5-1Openstack-nova.mp4  77.35M
+- |   ├──Cloud 5-2Openstack-nova.mp4  118.80M
+- |   ├──Cloud 5-3Openstack-nova.mp4  102.90M
+- |   ├──Cloud 5-4Openstack-nova.mp4  100.12M
+- |   ├──Cloud 5-5Openstack-nova.mp4  78.70M
+- |   ├──Cloud 6-1Openstack-nova.mp4  93.22M
+- |   ├──Cloud 6-2Openstack-keystone.mp4  112.44M
+- |   ├──Cloud 6-3Openstack-keystone.mp4  88.06M
+- |   ├──Cloud 6-4Openstack-keystone.mp4  63.07M
+- |   ├──Cloud 6-5Openstack-keystone.mp4  40.06M
+- |   ├──Cloud 6-6Openstack-rabbitmq.mp4  37.48M
+- |   ├──Cloud 7-1Openstack-cinder.mp4  88.18M
+- |   ├──Cloud 7-2Openstack-cinder.mp4  109.45M
+- |   ├──Cloud 7-3Openstack-cinder.mp4  106.93M
+- |   ├──Cloud 7-4Openstack-swift.mp4  120.58M
+- |   ├──Cloud 7-5Openstack-glance.mp4  65.01M
+- |   ├──Cloud 8-1Openstack-neutron.mp4.mp4  89.59M
+- |   ├──Cloud 8-2Openstack-neutron.mp4.mp4  107.86M
+- |   ├──Cloud 8-3Openstack-neutron.mp4.mp4  135.69M
+- |   ├──Cloud 8-4Openstack-ceilometer.mp4  77.06M
+- |   ├──Cloud 9-1FusionCloud 6.3私有云解决方案.mp4  108.24M
+- |   ├──Cloud 9-2FusionCloud 6.3私有云解决方案.mp4  106.67M
+- |   ├──Cloud 9-3FusionCloud 6.3私有云解决方案.mp4  140.42M
+- |   ├──Cloud 9-4FusionCloud 6.3私有云解决方案.mp4  175.34M
+- |   └──Cloud 9-5FusionCloud 6.3私有云解决方案.mp4  102.13M
+- ├──02 【视频】2020HCIE 2.0云计算最新版技术视频【泰K赵】  
+- |   ├──HCIE云计算笔记  
+- |   |   ├──5.25.txt  5.41kb
+- |   |   ├──5.26.txt  8.73kb
+- |   |   ├──5.27.txt  7.18kb
+- |   |   ├──5.28.txt  3.41kb
+- |   |   ├──5.29.txt  4.23kb
+- |   |   ├──5.30.txt  5.10kb
+- |   |   ├──5.31.txt  6.43kb
+- |   |   ├──6.1.txt  8.67kb
+- |   |   ├──6.15.txt  8.00kb
+- |   |   ├──6.16.txt  8.60kb
+- |   |   ├──6.2.txt  3.96kb
+- |   |   ├──6.22.txt  5.14kb
+- |   |   ├──6.23.txt  3.98kb
+- |   |   ├──6.29.txt  4.20kb
+- |   |   ├──HCIE-Cloud-Compute知识点框架.png  1.94M
+- |   |   ├──HCIE-Cloud-Compute知识点框架.xmap  325.60kb
+- |   |   └──网络平面.png  124.28kb
+- |   └──HCIE云计算新版技术视频  
+- |   |   ├──【01】2020全新版-泰克 HCIE-Cloud 1-1华为云计算解决方案介绍.mp4  380.46M
+- |   |   ├──【02】2020全新版泰克 HCIE-Cloud 1-2华为云计算解决方案介绍.mp4  4.25G
+- |   |   ├──【03】2020全新版-泰克 HCIE-Cloud 2-1FusionSphere 6.3 服务器虚拟化运营.wmv  410.06M
+- |   |   ├──【04】2020全新版泰克 HCIE-Cloud 2-2FusionSphere 6.3 服务器虚拟化运营.wmv  767.34M
+- |   |   ├──【05】2020全新版泰克 HCIE-Cloud 3-1FusionSphere 6.3 服务器虚拟化运营.wmv  522.49M
+- |   |   ├──【06】2020全新版泰克 HCIE-Cloud 3-2FusionSphere 6.3 服务器虚拟化运营.wmv  561.24M
+- |   |   ├──【07】2020全新版泰克 HCIE-Cloud 3-3KVM虚拟化技术方案介绍.wmv  181.44M
+- |   |   ├──【08】2020全新版泰克 HCIE-Cloud 4-1KVM虚拟化技术方案介绍.wmv  636.07M
+- |   |   ├──【09】2020全新版泰克 HCIE-Cloud 4-2KVM虚拟化技术方案介绍.wmv  413.97M
+- |   |   ├──【10】2020全新版泰克 HCIE-Cloud 4-3FusionCloud 6.3私有云解决方案.wmv  349.00M
+- |   |   ├──【11】2020全新版泰克 HCIE-Cloud 5-1openstack-nova.wmv  938.21M
+- |   |   ├──【12】2020全新版泰克 HCIE-Cloud 5-2openstack-nova.wmv  859.97M
+- |   |   ├──【13】2020全新版泰克 HCIE-Cloud 6-1openstack-nova.wmv  352.16M
+- |   |   ├──【14】2020全新版泰克 HCIE-Cloud 6-2openstack-glance.wmv  351.67M
+- |   |   ├──【15】2020全新版泰克 HCIE-Cloud 6-3openstack-swift.wmv  554.00M
+- |   |   ├──【16】2020全新版泰克 HCIE-Cloud 7-1openstack-cinder.wmv  733.22M
+- |   |   ├──【17】2020全新版泰克 HCIE-Cloud 7-2openstack-cinder.wmv  176.98M
+- |   |   ├──【18】2020全新版泰克 HCIE-Cloud 7-3openstack-neutron.wmv  628.24M
+- |   |   ├──【19】2020全新版泰克 HCIE-Cloud 8-1openstack-neutron.wmv  275.11M
+- |   |   ├──【20】2020全新版泰克 HCIE-Cloud 8-2openstack-keystone.wmv  682.44M
+- |   |   ├──【21】2020全新版泰克 HCIE-Cloud 8-3openstack-ceilmetor+rabbitmq.wmv  317.99M
+- |   |   ├──【22】2020全新版泰克 HCIE-Cloud 8-4openstack-heat.wmv  97.76M
+- |   |   ├──【23】2020全新版泰克 HCIE-Cloud 9-1FusionCloud 6.3私有云解决方案.wmv  983.34M
+- |   |   ├──【24】2020全新版泰克 HCIE-Cloud 9-2FusionCloud 6.3私有云解决方案.wmv  731.89M
+- |   |   ├──【25】2020全新版泰克 HCIE-Cloud 10-1openstack网络平面.wmv  781.20M
+- |   |   ├──【26】2020全新版泰克 HCIE-Cloud 10-2Fusionstorage.wmv  932.62M
+- |   |   ├──【27】2020全新版泰克 HCIE-Cloud 11-1Fusionstorage.wmv  478.21M
+- |   |   ├──【28】2020全新版泰克 -Cloud 11-2Fusionstorage.wmv  489.87M
+- |   |   ├──【29】2020全新版泰克 HCIE-Cloud 11-3Fusionaccess.wmv  571.27M
+- |   |   ├──【30】2020全新版泰克 HCIE-Cloud 12-1ebackup.wmv  717.63M
+- |   |   ├──【31】2020全新版泰克 HCIE-Cloud 12-2ebackup.wmv  285.26M
+- |   |   ├──【32】2020全新版泰克 HCIE-Cloud 12-3ebackup.wmv  445.12M
+- |   |   ├──【33】2020全新版泰克 HCIE-Cloud 13-1容灾.wmv  614.97M
+- |   |   ├──【34】2020全新版泰克 HCIE-Cloud 13-2容灾.wmv  964.57M
+- |   |   ├──【35】2020全新版泰克 HCIE-Cloud 14-1业务迁移.wmv  220.40M
+- |   |   ├──【36】2020全新版泰克 HCIE-Cloud 14-2业务迁移.wmv  460.44M
+- |   |   ├──【37】2020全新版泰克 HCIE-Cloud 14-3业务迁移.wmv  887.49M
+- |   |   ├──【38】2020全新版泰克 HCIE-Cloud 15-1HCIE-Cloud-compute知识框架总结.wmv  774.18M
+- |   |   ├──【39】2020全新版泰克 HCIE-Cloud 15-2HCIE-Cloud-compute知识框架总结.wmv  829.90M
+- |   |   ├──【参考01学习】FusionAccess5.25.wmv  781.97M
+- |   |   └──【参考02学习】FusionStorage5.25.wmv  183.89M
+- ├──03 【视频】HCIE新版2.0云计算技术视频教程【泰K刘】  
+- |   ├──【01】HCIE Cloud1-1云数据中心架构.mp4  74.57M
+- |   ├──【02】HCIE Cloud1-2服务器虚拟化之计算虚拟化.mp4  100.35M
+- |   ├──【03】HCIE Cloud2-1服务器虚拟化之存储虚拟化.mp4  95.75M
+- |   ├──【04】HCIE Cloud2-2服务器虚拟化之存储网络虚拟化).mp4  118.97M
+- |   ├──【05】HCIE Cloud3-1FusionStorage.mp4  72.36M
+- |   ├──【06】HCIE Cloud3-2FusionStorage.mp4  103.59M
+- |   ├──【07】HCIE Cloud4-1FusionStorage.mp4  83.11M
+- |   ├──【08】HCIE Cloud4-2FusionStorage.mp4  54.23M
+- |   ├──【09】HCIE Cloud4-3FusionNetwork之SDN网络架构.mp4  39.28M
+- |   ├──【10】HCIE-5-1Openstack1.mp4  81.91M
+- |   ├──【11】HCIE 5-2Openstack2-novacinder.mp4  116.81M
+- |   ├──【12】HCIE 6-1Openstack3-neutron.mp4  78.07M
+- |   ├──【13】HCIE 6-2Openstack4-neutron.mp4  107.04M
+- |   ├──【14】HCIE 7-1Openstack5-nova-neutron-glance.mp4  101.62M
+- |   ├──【15】HCIE 7-2Openstack6-glance+swift+keystone.mp4  121.11M
+- |   ├──【16】HCIE 8-1Openstack7-keystone.mp4  98.64M
+- |   ├──【17】HCIE 8-2Openstack8-ceilometer-ironic-heat+OM.mp4  113.05M
+- |   ├──【18】HCIE9-1Openstack部署_转.mp4  113.87M
+- |   ├──【19】HCIE9-2Openstack部署_转.mp4  163.24M
+- |   ├──【20】HCIE10-1Openstack安装部署_转.wmv  389.19M
+- |   ├──【21】HCIE 10-2Openstack安装部署_转.mp4  236.94M
+- |   ├──【22】HCIECloud11-1桌面云解决方案.mp4  80.10M
+- |   ├──【23】HCIECloud11-2桌面云解决方案.mp4  97.89M
+- |   ├──【24】HCIECloud12-1桌面云解决方案.mp4  87.61M
+- |   ├──【25】HCIECloud12-2桌面云解决方案_朱颖杰.wmv  277.78M
+- |   ├──【26】HCIECloud13-1备份解决方案.mp4  132.02M
+- |   ├──【27】HCIECloud13-2桌面云解决方案.mp4  30.27M
+- |   ├──【28】HCIECloud14-1备份解决方案.mp4  153.12M
+- |   ├──【29】HCIECloud14-2容灾解决方案.mp4  65.57M
+- |   ├──【30】HCIECloud15-1容灾解决方案.mp4  151.31M
+- |   ├──【31】HCIECloud15-2业务迁移解决方案.mp4  68.32M
+- |   ├──【32】HCIECloud16-1业务迁移解决方案.mp4  125.77M
+- |   └──【33】HCIECloud16-2云计算LAB讲解.mp4  112.80M
+- ├──04 【视频】HCIE云计算实战视频+分布式存储技术【誉T邹】  
+- |   ├──HCIE云计算实战视频【誉T邹】  
+- |   |   ├──HCIE云计算实战-2.wmv  808.04M
+- |   |   ├──HCIE云计算实战-3.wmv  803.21M
+- |   |   ├──HCIE云计算实战-4.wmv  807.76M
+- |   |   ├──HCIE云计算实战-5.exe  407.35M
+- |   |   ├──HCIE云计算实战-6.wmv  1.16G
+- |   |   ├──HCIE云计算实战-7.wmv  905.76M
+- |   |   ├──HCIE云计算实战-8.wmv  629.41M
+- |   |   ├──HCIE云计算实战.wmv  408.98M
+- |   |   └──HCIE云计算实战1.wmv  723.27M
+- |   └──HCIE中分布式存储技术知识点【誉T曾】  
+- |   |   ├──0 2020年8月录制视频主要选取【HCIE级别中分布式存储FusionStorage技术知识点】.txt  0.00kb
+- |   |   ├──1 云计算HCIE-FusionStorage的DHT环的原理-01.mp4  213.52M
+- |   |   ├──10 云计算HCIE-FusionStorage高级功能-10.mp4  195.39M
+- |   |   ├──11 云计算HCIE-FusionStorage高级功能-11.mp4  200.61M
+- |   |   ├──12 云计算HCIE-FusionStorage高级功能-12.mp4  202.39M
+- |   |   ├──2 云计算HCIE-FusionStorage的DHT环的原理-02.mp4  174.07M
+- |   |   ├──3 云计算HCIE-FusionStorage的DHT环的原理-03.mp4  170.90M
+- |   |   ├──4 云计算HCIE-FusionStorage的DHT环的原理-04.mp4  203.63M
+- |   |   ├──5 云计算HCIE-FusionStorage组件介绍及交互流程-05.mp4  212.48M
+- |   |   ├──6 云计算HCIE-FusionStorage组件介绍及交互流程-06.mp4  202.50M
+- |   |   ├──7 云计算HCIE-FusionStorage组件介绍及交互流程-07.mp4  223.26M
+- |   |   ├──8 云计算HCIE-FusionStorage组件介绍及交互流程-08.mp4  213.00M
+- |   |   └──9 云计算HCIE-FusionStorage高级功能-09.mp4  208.37M
+- ├──06 【面试】2021年HCIE云计算最新面视题库与视频  
+- |   ├──01  面试最新题库  
+- |   |   ├──最新HCIE-Cloud面试文档（yutian）.pdf  5.13M
+- |   |   └──最新HCIE_Cloud面试文档（泰克）.pdf  9.61M
+- |   ├──02  赠参考面试讲解  
+- |   |   ├──面试 （1-1）.mp4  642.12M
+- |   |   ├──面试3.mp4  657.05M
+- |   |   ├──面试4.mp4  682.51M
+- |   |   ├──面试（1-2）.mp4  571.33M
+- |   |   ├──面试（2-1）.mp4  517.97M
+- |   |   └──面试（2-2）.mp4  958.97M
+- |   ├──vce 软件  
+- |   |   ├──libcryptvce.dll  283.50kb
+- |   |   ├──libeay32.dll  1.13M
+- |   |   ├──player.exe  7.09M
+- |   |   ├──sqlite3.dll  516.40kb
+- |   |   └──汉化补丁.txt  52.01kb
+- |   └──VCE软件（手机安卓版）  
+- |   |   └──A .VCE.v.7.0.apk  2.84M
+- ├──07 【课件】2021最新官方HCIE 2.0云计算教材+实验手册  
+- |   ├──01 规划设计 - 0.5d  
+- |   |   └──HC1308101 云计算规划设计.ppt  10.28M
+- |   ├──02 软件定义计算 - 1d  
+- |   |   ├──2.1 计算资源池概述.pptx  1.67M
+- |   |   ├──2.2 华为融合资源池解决方案.pptx  1.46M
+- |   |   ├──2.3 融合资源池解决方案-服务能力特性介绍.pptx  522.27kb
+- |   |   ├──2.4 融合资源池解决方案-资源池管理能力特性介绍.pptx  769.05kb
+- |   |   ├──2.5 融合资源池解决方案-资源池运维能力特性介绍.pptx  1.08M
+- |   |   └──2.6 数据中心计算资源规划设计.pptx  1.63M
+- |   ├──03 软件定义网络 - 0.5d  
+- |   |   └──网络规划设计.pptx  4.31M
+- |   ├──04 软件定义存储 - 2d  
+- |   |   ├──01 培训课件  
+- |   |   └──02 实验手册  
+- |   ├──05 OpenStack培训 - 3.5d  
+- |   |   ├──00 FusionSphere整体介绍.pptx  956.12kb
+- |   |   ├──01 社区版OpenStack概述.pptx  729.90kb
+- |   |   ├──02 Nova讲解.pptx  1.24M
+- |   |   ├──03 Glance与Swift讲解.pdf  3.44M
+- |   |   ├──03 Glance与Swift讲解.pptx  593.74kb
+- |   |   ├──04 Cinder讲解.pptx  862.46kb
+- |   |   ├──05-1 Neutron讲解.pptx  2.58M
+- |   |   ├──05-2 Neutron L3讲解.pptx  352.33kb
+- |   |   ├──06 KeyStone讲解.pptx  951.66kb
+- |   |   ├──07 RabbitMQ讲解.pptx  986.68kb
+- |   |   ├──08 Ceilometer讲解.pptx  745.30kb
+- |   |   ├──09 Heat讲解.pptx  867.53kb
+- |   |   ├──10 模块间交互案例讲解.pptx  4.13M
+- |   |   ├──11 华为商业版OpenStack产品FusionSphere OpenStack介绍.pptx  2.37M
+- |   |   ├──12 华为FusionSphere 功能增强择要讲解.pptx  2.92M
+- |   |   ├──13 FusionSphere 虚拟网络及网络平面讲解.ppt  1.62M
+- |   |   ├──14 FusionSphere 安装配置讲解.ppt  3.78M
+- |   |   ├──15 FusionSphere 规划设计讲解.pptx  2.06M
+- |   |   ├──16 FusionSphere 资源模型讲解.ppt  2.35M
+- |   |   ├──17 FusionSphere 业务操作讲解.ppt  1.79M
+- |   |   ├──18 FusionSphere 日常操作维护与故障处理讲解.ppt  1.56M
+- |   |   ├──19 FusionSphere 异构VMware讲解.ppt  2.26M
+- |   |   ├──20 FusionSphere 存量纳管特性讲解.pptx  866.79kb
+- |   |   ├──21 FusionSphere 裸金属服务讲解.pptx  2.55M
+- |   |   ├──22 FusionSphere SDN特性讲解.pptx  3.36M
+- |   |   ├──23 FusionSphere 云备份特性讲解.pptx  924.91kb
+- |   |   ├──24 FusionSphere 云容灾特性讲解.pptx  778.94kb
+- |   |   ├──25 华为分布式云数据中心.ppt  10.07M
+- |   |   ├──26 特性专题—vAPP讲解.pptx  2.46M
+- |   |   ├──27 特性专题—RDS.pptx  1.09M
+- |   |   ├──28 特性专题—SDN.pptx  6.01M
+- |   |   └──29 特性专题—物理机服务.pptx  2.11M
+- |   ├──06 ManageOne - 0.5d  
+- |   |   ├──01 培训课件  
+- |   |   └──02 实验手册  
+- |   ├──07 桌面云 - 2d  
+- |   |   ├──01 培训课件  
+- |   |   └──02 实验手册  
+- |   ├──08 云计算灾备 - 1.5d  
+- |   |   ├──01 培训课件  
+- |   |   └──02 实验手册  
+- |   ├──09 维护工具 - 0.5d  
+- |   |   └──云计算维护工具.pptx  2.90M
+- |   ├──10 故障处理 - 1d  
+- |   |   ├──01 云计算故障处理概述.pptx  1.30M
+- |   |   ├──02 云计算故障处理常用工具.pptx  1.46M
+- |   |   ├──03 云计算公用组件故障处理.pptx  786.64kb
+- |   |   ├──04 FusionCompute故障处理.pptx  1.05M
+- |   |   ├──05 FusionManager故障处理.pptx  721.62kb
+- |   |   └──06 FusionAccess故障处理.pptx  2.37M
+- |   ├──11 业务迁移 - 1d  
+- |   |   ├──01 培训课件  
+- |   |   └──02 实验手册  
+- |   ├──HCIE-Cloud培训教材V2.0.pdf  56.17M
+- |   └──HCIE-Cloud实验手册V2.0.pdf  22.23M
+- └──08 【环境】HCIE 云计算模拟实验软件及环境  
+- |   ├──FusionAccess  
+- |   |   ├──FusionAccess V100R005C30SPC100 版本配套表 01.zip  50.35kb
+- |   |   ├──FusionAccess V100R005C30SPC100 版本说明书 01.zip  561.92kb
+- |   |   ├──FusionAccess V100R005C30SPC100 北向接口参考 01.zip  2.94M
+- |   |   ├──FusionAccess V100R005C30SPC100 容量调整指南 01.zip  553.67kb
+- |   |   ├──FusionAccess V100R005C30SPC100 升级指导书 02.zip  3.40M
+- |   |   ├──FusionAccess V100R005C30SPC100 验收测试指南 (SBC) 01.zip  479.60kb
+- |   |   ├──FusionAccess V100R005C30SPC100 验收测试指南 (VDI) 01.zip  816.46kb
+- |   |   ├──FusionAccess_AccessClient_V100R005C30SPC100.zip  302.25M
+- |   |   ├──FusionAccess_Installer_CDM_V100R005C30SPC100.iso  363.96M
+- |   |   ├──FusionAccess_Installer_Linux_V100R005C30SPC100.iso  1.03G
+- |   |   ├──FusionAccess_Installer_Win_V100R005C30SPC100.iso  164.41M
+- |   |   ├──FusionAccess_Mirror_V100R005C30SPC100.iso  662.02M
+- |   |   ├──FusionAccess_UpgradePackages_V100R005C30SPC100.zip  1.43G
+- |   |   ├──FusionAccess案例集-indicia.rar  29.30M
+- |   |   ├──FusionAccess桌面云场景下的文件拷贝-文件重定向和USB端口重定向.docx  287.00kb
+- |   |   ├──Huawei_vTools_V100R005C30SPC100.zip  47.00M
+- |   |   ├──logUpload.zip  2.61M
+- |   |   ├──YZE0605P-FusionCloud_桌面云_解决方案文档-(V100R005C30_06).zip  18.40M
+- |   |   └──华为FusionCloud桌面云解决方案5.3_PoC环境快速部署指南_v1.2.docx  947.11kb
+- |   ├──FusionSphere 虚拟化套件 6.5.1  
+- |   |   ├──FusionCompute 6.5.1_CNA.iso  748.03M
+- |   |   ├──FusionCompute 6.5.1_GpuCompiler.zip  34.32M
+- |   |   ├──FusionCompute 6.5.1_Installer.zip  228.20M
+- |   |   ├──FusionCompute 6.5.1_VncViewer.zip  76.62kb
+- |   |   ├──FusionCompute 6.5.1_VRM.iso  1.07G
+- |   |   ├──FusionCompute 6.5.1_VRM.zip  2.43G
+- |   |   └──FusionSphere 虚拟化套件 6.5.1 产品文档 05.zip  25.67M
+- |   ├──(多媒体)FusionManager V100R005C00 安装与配置 02 (MP4).zip  22.32M
+- |   ├──FusionAccess.apk  5.58M
+- |   ├──FusionCompute readme.txt  1.97kb
+- |   ├──FusionCompute V100R005C10SPC700_CNA.iso  537.08M
+- |   ├──FusionCompute V100R005C10SPC700_CNA.iso.asc  0.48kb
+- |   ├──FusionCompute V100R005C10SPC700_GuestOSDrivers.zip  463.61M
+- |   ├──FusionCompute V100R005C10SPC700_Tools.zip  206.17M
+- |   ├──FusionCompute V100R005C10SPC700_VRM.zip  1.34G
+- |   ├──FusionCompute V100R005C10SPC700_VSA.zip  678.32M
+- |   ├──FusionCompute V100R005C10SPC700_VSAM.zip  808.42M
+- |   ├──FusionManager V100R005C00 业务发放 01 (MP4格式).zip  24.51M
+- |   ├──FusionManager V100R005C10SPC700_SV.zip  1.11G
+- |   ├──FusionManager V100R005C10SPC700_tool.zip  17.48M
+- |   ├──FusionSphere V100R005C10 快速使用指南(服务器虚拟化) 01.zip  3.42M
+- |   ├──KEYS  1.26kb
+- |   ├──Mini-VDI.pdf  7.71M
+- |   ├──OpenPGP签名验证指南.docx  1.89M
+- |   ├──VerificationTools.zip  4.30M
+- |   ├──（多媒体）FusionCompute V100R005C00 安装与功能简介 01（MP4）.zip  24.20M
+- |   ├──华为FusionCloud桌面云解决方案5.3_PoC环境快速部署指南_v1.2.docx  947.11kb
+- |   └──华为桌面云解决方案主打胶片.pdf  3.97M
+- 
